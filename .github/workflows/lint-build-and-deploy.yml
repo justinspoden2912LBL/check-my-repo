@@ -1,4 +1,4 @@
-name: Lint, Build and Deploy
+name: checker
 
 on:
   workflow_dispatch:
